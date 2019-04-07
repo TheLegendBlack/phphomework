@@ -1,0 +1,21 @@
+
+.header {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 335;
+    color: white;
+}
+
+body {
+    padding-top: 300px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+footer {
+    background: #777;
+    padding: 30px;
+    text-align: center;
+    color: white;
+}
